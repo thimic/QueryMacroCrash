@@ -357,7 +357,7 @@
 			repositoryURL = "https://github.com/pointfreeco/swift-structured-queries";
 			requirement = {
 				kind = exactVersion;
-				version = 0.31.3;
+				version = 0.32.0;
 			};
 			traits = (
 			);
